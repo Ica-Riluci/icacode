@@ -43,15 +43,6 @@ body {
     src : url('../rs/ubuntu-mono.ttf');
 }
 
-@font-face {
-    font-family : 'chn';
-    src : url('../rs/chn.TTF');
-}
-
-.chn {
-    font-family : 'chn';
-}
-
 details summary {
     margin-left : -2em;
     user-select : none;
